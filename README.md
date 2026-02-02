@@ -1,6 +1,6 @@
 # D-LITE-ELECTRONICS-LTD-PERFORMANNCE-DASHBOARD
 ## Project Overview
-This project analyzes 6 months of **Electronics Sales data** The analysis focuses on regional sales density in **Nigeria**,the goal was to transform raw sales data into an interactive decision-making tool that tracks  product profitability, peak "Busiest Day" trends, staff performance, customer value, and operational timing  to assist stakeholders in strategic decision-making.
+This project analyzes 6 months of **Electronics Sales data** The analysis focuses on regional sales density in **Nigeria**,the goal was to transform raw sales data into an interactive decision-making tool that tracks  product profitability, peak Busiest Day trends, staff performance, customer value, and operational timing  to assist stakeholders in strategic decision-making.
 
 ##  Key Metrics & Visualizations
 The Key Metrics are as Follows:
