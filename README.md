@@ -76,9 +76,6 @@ Dlinks_Eletronic_sales_performance_Dashboard.png / [`Dlinks_Electronic_Dashboard
 
 │
 
-├── Insight.md
-
-│     └── Insights/ [`Insights.md`](Insights.md) 
 
 
 └── README.md / [`README.md`](README.md) 
