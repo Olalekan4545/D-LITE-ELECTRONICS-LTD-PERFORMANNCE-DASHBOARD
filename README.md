@@ -51,4 +51,57 @@ Based on the data visualized in this dashboard, here are the strategic recommend
 * **High Volume vs. High Value:** Comparison between **Quantity Sold** and **Total Revenue** indicates that some categories have high turnover but low margins. I recommend a slight price optimization or "Bundling Strategy" (e.g., selling a case with every phone) to increase the Average Order Value (AOV).
 
 
+## File Included
+Dlinks_Eletronic_sales_performance_Dashboard.png / [`Dlinks_Electronic_Dashboard.png`](Dlinks_Electronic_Dashboard.png) 
+
+
+├── Dlinks_Eletronic_sales_performance_Dataset.xlsx
+
+│        └── data/[`Final_Project.xlsx`](Final_Project.xlsx) 
+
+│ 
+
+├── Dlinks_Eletronic_sales_performance_Dashboard.xlsx
+
+
+│   └── dashboard/[`Dlinks_Eletronic_sales_performance_Dashboard.xlsx`](Dlinks_Eletronic_sales_performance_Dashboard.xlsx)
+
+│
+
+
+├── images.png
+
+
+│   └── Images/[`Monthly_Sales.png`](Shipping_Cost_by_Transportation.Monthly_Sales.png) / [`Product_by_Sales.png`](Product_by_Sales.png) / [`Sales_by_Region.png`](Sales_by_Region.png) / [`Sales_by_Sales_Rep.png`](Sales_by_Sales_Rep.png) / [`Top_5_Customer_by_order.png`](Top_5_Customer_by_order.png)
+
+│
+
+├── Insight.md
+
+│     └── Insights/ [`Insights.md`](Insights.md) 
+
+
+└── README.md / [`README.md`](README.md) 
+
+
+
+
+
+
+## How to Use
+1. Download the .pbix file from the dashboard folder [`Supply-Chain.pbix`](Supply-Chain.pbix)
+2. Open with Power BI Desktop [Power BI Desktop](https://powerbi.microsoft.com/).
+3.  Use slicers to explore insights across different dimensions
+
+
+### 👨‍💻 About Me
+I am a Data Analyst specializing in Excel and Powerbi. I love turning messy data into clean and actionable stories.
+
+🔗 [Linkdin_Profile](https://linkedin.com/in/afolakemi-olalekan-145174253)
+
+
+
+
+📧  [Click here to send me an email](mailto:Afolakemiayomiposi@gmail.com)
+
 
