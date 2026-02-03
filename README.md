@@ -89,10 +89,11 @@ Dlinks_Eletronic_sales_performance_Dashboard.png / [`Dlinks_Electronic_Dashboard
 
 
 ## How to Use
-1. Download the .pbix file from the dashboard folder [`Supply-Chain.pbix`](Supply-Chain.pbix)
-2. Open with Power BI Desktop [Power BI Desktop](https://powerbi.microsoft.com/).
-3.  Use slicers to explore insights across different dimensions
-
+1. Click on the [`Dlinks_Eletronic_sales_performance_Dashboard.xlsx`](Dlinks_Eletronic_sales_performance_Dashboard.xlsx) file.
+2. Look for the Download button *it usually looks like a downward arrow or says "Download raw file"*.
+3. Click on Download
+4. Once the file is on your computer, Right-click and select Open with Excel.
+   
 
 ### 👨‍💻 About Me
 I am a Data Analyst specializing in Excel and Powerbi. I love turning messy data into clean and actionable stories.
