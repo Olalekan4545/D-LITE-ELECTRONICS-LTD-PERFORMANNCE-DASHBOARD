@@ -4,16 +4,34 @@ This project analyzes 6 months of **Electronics Sales data** The analysis focuse
 
 ##  Key Metrics & Visualizations
 The Key Metrics are as Follows:
-### **1. Product Intelligence**
+
+
+### 1. Key Performance Indicators (KPIs)
+
+ **Total Sales** | ₦647,325,000 | Total revenue generated across all regions.
+
+
+ 
+ **Total Orders** | 100 |  Number of successful customer transactions. 
+
+ 
+ **Total Quantity** | 1,141 | Total units of electronics sold. 
+
+
+ 
+**Average Order** | 6,473,250 | The average spend per customer transaction. 
+
+
+### 2. Product Intelligence
 * **Sales by Product Category:** Broad view of revenue drivers.
 * **Product Name by Total Revenue:** Identifies the "High Value" products.
 * **Product Name by Total Quantity Sold:** Highlights high-turnover inventory items.
 
-### **2. Operational Efficiency**
+### 3. Operational Efficiency
 * **The Busiest Day :**  this identifies the day of the week with the highest transaction volume.
 * **Monthly Sales Trend:** Tracks the business pulse and seasonal growth.
 
-### **3. Market & Team Performance**
+### 4. Market & Team Performance
 * **Sales by Region:** Geographic performance across Nigeria.
 * **Sales by Sales Rep:** A leaderboard tracking individual staff contributions.
 * **Top 5 Customers by Revenue:** this identifies the customers that contributes most to the organisation
